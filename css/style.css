@@ -1,0 +1,31 @@
+body{
+    background: #000;
+}
+
+/* .elida     {
+    background: #500;
+    width: 100%;
+    
+    text-align: right;
+  } */
+  /* .elida ul   {
+   
+    margin: 0;
+  } */
+  .hirya{
+      margin-left: 50%;
+  }
+  .inkoko li {
+    display: inline-block;
+  }
+   .inkoko li a    {
+    color: #FFF;
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 3px;
+    transition: 0.3s ease all;
+  } 
+  .inkoko li a:hover   {
+    background: #3525;
+  } 
